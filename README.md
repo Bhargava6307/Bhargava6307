@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhargava4507
+- 👋 Hi, I’m @Bhargava
 - 👀 I’m interested in ... software testing
 - 🌱 I’m currently learning ...Computer application 
 - 💞️ I’m looking to collaborate on ... 
