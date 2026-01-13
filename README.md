@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Bhargava
-- 👀 I’m interested in ... software testing
-- 🌱 I’m currently learning ...Computer application 
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... bhargava11450@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Bhargava!
 
-<!---
-Bhargava4507/Bhargava4507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎓 About Me
+- 🔭 I’m currently working on **Real Time**Projects.
+- 🌱 I’m currently learning **Computer Applications and Web Technology**.
+- ⚡ Fun fact: I love exploring new AI tools!
+
+### 🛠 Tech Stack
+- **Languages:** Python, JavaScript,HTML
+- **Tools:** Git, GitHub, VS Code,Android Studio
+
+### 📫 Connect with me:
+[LinkedIn](https://bit.ly/Bhargava63) | [Email](bhargava1450@gmail.com)
